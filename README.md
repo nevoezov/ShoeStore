@@ -1,4 +1,4 @@
-# Shoe Store runner, by Nevo Ezov.
+# Shoe Store runner.
 
 JAVA implemented shoe store runner application, based on Micro-Services Framework Architecture.
 That is, a framework which include two main parts: Micro-Services and a MessageBus. 
